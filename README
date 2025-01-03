@@ -1,3 +1,4 @@
-
- # Install
-npm i
+# Install
+```bash
+   pip install foobar
+```
